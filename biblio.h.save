@@ -1,0 +1,116 @@
+#ifndef BIBLIO_H_INCLUDED
+#define BIBLIO_H_INCLUDED
+
+/****************************************************************/
+///declaration des bibliothèques
+#include <allegro.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdbool.h>
+#include <string.h>
+#include <logg.h>
+
+
+
+
+/******************************************
+************ Structures  ******************
+*******************************************/
+//regroupe les informations relative à un niveau en particulier
+typedef struct niveau
+{
+    int map_x,map_y,map_z;      //taille de la map 3D
+
+    int ecran_w,ecran_h;        //taille de l'ecran 2D
+    int decalage_w,decalage_h;  //decalage du point de coordonnée (0,0,0) par rapport au extremité de l'ecran
+
+    int n_allie;//nombre d'allié pour ce niveau
+
+    t
+    
+    int coup_1,coup_2;          //nombre de coup limite pour avoir 1 2 ou 3 étoile
+
+    int nb_cle;
+
+    int** emplacement_gemmes;
+} t_niveau;
+
+//regroupe les information d'un personnage
+typedef struct personnage
+{
+    int x,y,z;
+    int old_x,old_y,old_z;
+
+    int orientation;
+
+    int ini_x,ini_y,ini_z;
+    int ini_orien;
+
+
+    float trans; //pourcentage de transition entre les 2 coordonnées
+
+    //int pv;
+    //int balles;
+
+} t_personnage;
+
+
+
+
+/*******************************************
+**********   Variable Globales  ************
+********************************************/
+
+extern BITMAP* Buffer;
+extern FONT* font3;
+extern FONT* font4;
+
+
+
+
+
+/*******************************************
+*************   prototypes *****************
+********************************************/
+
+#include "chargement_de_donnees.h"
+#include "annexe.h"
+#include "jeu.h"
+#include "jeu_modelisation_3D.h"
+#include "boucle_jeu.h"
+#include "liberation_espace_memoire.h"
+#include "affichage.h"
+
+
+
+
+int main();
+
+/****************************************************************/
+#endif // BIBLIO_H_INCLUDED
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

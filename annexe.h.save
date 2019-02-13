@@ -1,0 +1,61 @@
+#ifndef ANNEXE_H_INCLUDED
+#define ANNEXE_H_INCLUDED
+
+
+/*******************************************
+**********   Variable Globales  ************
+********************************************/
+
+
+
+/*******************************************
+************* Magic Numbers  ***************
+********************************************/
+
+#define vitesse_pi 15   //vitesse du pigeon pour le sous programme menu
+#define couleur_max 255 //correspond à la couleur 255
+
+
+/*******************************************
+*************   prototypes *****************
+********************************************/
+
+
+
+
+///permet l'affichage du menu et permet l'interaction avec l'utilisateur
+//il renvoie une valeur correspondant au choix de l'utilisateur :
+//      -> 0 pour quitter, 5 pour l'aide, 1 pour clic, 2 pour clavier, 3 pour scratch
+int menu(t_graphismes* image_annexe);
+
+
+
+
+
+///fonction affichant un bouton texte et renvoie si on clique dessus
+/* ****************************************************************************************************
+*                    SOURCE :                                                                        *
+* https://codes-sources.commentcamarche.net/source/31767-dessin-d-un-bouton-a-enfoncer-en-allegro-c  *
+*                                                                                                    *
+******************************************************************************************************/
+// -> permet l'affichage d'un bouton avec effet d'enfoncement du clique
+// -> il retourne 1 si on clique et 0 si on ne clique pasint draw_bouton(int posx, int posy, int pos2x, int pos2y, int color1, int color2, int profondeur, char* texte,FONT*font1);
+
+
+
+///permet d'initialiser la fenetre d'allegro a la bonne dimension avec verification
+/* ********************************************
+*****    source : TD de Mme PALASI       *****
+**********************************************/
+void lancerToutAllegro(int largeur, int hauteur);
+
+#endif // ANNEXE_H_INCLUDED
+
+
+
+
+
+
+
+
+

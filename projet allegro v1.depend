@@ -1,0 +1,476 @@
+# depslib dependency file v1.0
+1525616497 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v3\annexe.c
+	"biblio.h"
+
+1525870900 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v3\biblio.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<logg.h>
+	"chargement_de_donnees.h"
+	"annexe.h"
+	"jeu.h"
+	"jeu_modelisation_3D.h"
+	"boucle_jeu.h"
+	"liberation_espace_memoire.h"
+
+1525869928 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v3\chargement_de_donnees.h
+
+1525615684 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v3\annexe.h
+
+1525612895 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v3\jeu.h
+
+1525533449 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v3\jeu_modelisation_3d.h
+
+1525607986 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v3\boucle_jeu.h
+
+1525366699 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v3\liberation_espace_memoire.h
+
+1525622171 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v3\boucle_jeu.c
+	"biblio.h"
+
+1525870900 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v3\chargement_de_donnees.c
+	"biblio.h"
+
+1525872656 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v3\jeu_modelisation_3d.c
+	"biblio.h"
+
+1525366987 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v3\liberation_espace_memoire.c
+	"biblio.h"
+
+1525873667 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v3\main.c
+	"biblio.h"
+
+1525872550 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v3\jeu.c
+	"biblio.h"
+
+1525616498 source:e:\users\novaskyz\documents\info\projet allegro v3\annexe.c
+	"biblio.h"
+
+1525870902 e:\users\novaskyz\documents\info\projet allegro v3\biblio.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<logg.h>
+	"chargement_de_donnees.h"
+	"annexe.h"
+	"jeu.h"
+	"jeu_modelisation_3D.h"
+	"boucle_jeu.h"
+	"liberation_espace_memoire.h"
+
+1525869930 e:\users\novaskyz\documents\info\projet allegro v3\chargement_de_donnees.h
+
+1525615686 e:\users\novaskyz\documents\info\projet allegro v3\annexe.h
+
+1525612896 e:\users\novaskyz\documents\info\projet allegro v3\jeu.h
+
+1525533450 e:\users\novaskyz\documents\info\projet allegro v3\jeu_modelisation_3d.h
+
+1525607988 e:\users\novaskyz\documents\info\projet allegro v3\boucle_jeu.h
+
+1525366700 e:\users\novaskyz\documents\info\projet allegro v3\liberation_espace_memoire.h
+
+1525622172 source:e:\users\novaskyz\documents\info\projet allegro v3\boucle_jeu.c
+	"biblio.h"
+
+1525870902 source:e:\users\novaskyz\documents\info\projet allegro v3\chargement_de_donnees.c
+	"biblio.h"
+
+1525876692 source:e:\users\novaskyz\documents\info\projet allegro v3\jeu.c
+	"biblio.h"
+
+1525872658 source:e:\users\novaskyz\documents\info\projet allegro v3\jeu_modelisation_3d.c
+	"biblio.h"
+
+1525366988 source:e:\users\novaskyz\documents\info\projet allegro v3\liberation_espace_memoire.c
+	"biblio.h"
+
+1525876751 source:e:\users\novaskyz\documents\info\projet allegro v3\main.c
+	"biblio.h"
+
+1525999083 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v3.8\annexe.c
+	"biblio.h"
+
+1525997151 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v3.8\biblio.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<logg.h>
+	"chargement_de_donnees.h"
+	"annexe.h"
+	"jeu.h"
+	"jeu_modelisation_3D.h"
+	"boucle_jeu.h"
+	"liberation_espace_memoire.h"
+	"affichage.h"
+
+1525999538 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v3.8\chargement_de_donnees.h
+
+1525615686 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v3.8\annexe.h
+
+1525612896 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v3.8\jeu.h
+
+1525533450 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v3.8\jeu_modelisation_3d.h
+
+1525982791 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v3.8\boucle_jeu.h
+
+1525366700 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v3.8\liberation_espace_memoire.h
+
+1526000833 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v3.8\boucle_jeu.c
+	"biblio.h"
+
+1525999605 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v3.8\chargement_de_donnees.c
+	"biblio.h"
+
+1525872658 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v3.8\jeu_modelisation_3d.c
+	"biblio.h"
+
+1525366988 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v3.8\liberation_espace_memoire.c
+	"biblio.h"
+
+1525999865 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v3.8\jeu.c
+	"biblio.h"
+
+1525985982 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v3.8\main.c
+	"biblio.h"
+
+1525983492 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v3.8\menu.c
+
+1525999084 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v3.8\affichage.c
+	"biblio.h"
+
+1525993677 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v3.8\affichage.h
+
+1525999084 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4\affichage.c
+	"biblio.h"
+
+1525997151 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4\biblio.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<logg.h>
+	"chargement_de_donnees.h"
+	"annexe.h"
+	"jeu.h"
+	"jeu_modelisation_3D.h"
+	"boucle_jeu.h"
+	"liberation_espace_memoire.h"
+	"affichage.h"
+
+1526034422 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4\chargement_de_donnees.h
+
+1525615686 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4\annexe.h
+
+1525612896 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4\jeu.h
+
+1525533450 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4\jeu_modelisation_3d.h
+
+1525982791 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4\boucle_jeu.h
+
+1525366700 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4\liberation_espace_memoire.h
+
+1525993677 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4\affichage.h
+
+1526035838 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4\annexe.c
+	"biblio.h"
+
+1526000833 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4\boucle_jeu.c
+	"biblio.h"
+
+1526034422 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4\chargement_de_donnees.c
+	"biblio.h"
+
+1526034933 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4\jeu.c
+	"biblio.h"
+
+1525872658 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4\jeu_modelisation_3d.c
+	"biblio.h"
+
+1525366988 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4\liberation_espace_memoire.c
+	"biblio.h"
+
+1526036007 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4\main.c
+	"biblio.h"
+
+1525983492 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4\menu.c
+
+1525999084 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.2\affichage.c
+	"biblio.h"
+
+1526068102 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.2\biblio.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<logg.h>
+	"chargement_de_donnees.h"
+	"annexe.h"
+	"jeu.h"
+	"jeu_modelisation_3D.h"
+	"boucle_jeu.h"
+	"liberation_espace_memoire.h"
+	"affichage.h"
+
+1526070414 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.2\chargement_de_donnees.h
+
+1525615686 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.2\annexe.h
+
+1525612896 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.2\jeu.h
+
+1525533450 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.2\jeu_modelisation_3d.h
+
+1525982791 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.2\boucle_jeu.h
+
+1525366700 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.2\liberation_espace_memoire.h
+
+1525993677 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.2\affichage.h
+
+1526035838 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.2\annexe.c
+	"biblio.h"
+
+1526000833 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.2\boucle_jeu.c
+	"biblio.h"
+
+1526068998 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.2\jeu.c
+	"biblio.h"
+
+1525366988 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.2\liberation_espace_memoire.c
+	"biblio.h"
+
+1526070390 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.2\main.c
+	"biblio.h"
+
+1525983492 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.2\menu.c
+
+1526068248 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.2\chargement_de_donnees.c
+	"biblio.h"
+
+1526070749 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.2\jeu_modelisation_3d.c
+	"biblio.h"
+
+1525999084 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.3\affichage.c
+	"biblio.h"
+
+1526068102 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.3\biblio.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<logg.h>
+	"chargement_de_donnees.h"
+	"annexe.h"
+	"jeu.h"
+	"jeu_modelisation_3D.h"
+	"boucle_jeu.h"
+	"liberation_espace_memoire.h"
+	"affichage.h"
+
+1526070414 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.3\chargement_de_donnees.h
+
+1525615686 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.3\annexe.h
+
+1525612896 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.3\jeu.h
+
+1525533450 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.3\jeu_modelisation_3d.h
+
+1525982791 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.3\boucle_jeu.h
+
+1525366700 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.3\liberation_espace_memoire.h
+
+1525993677 c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.3\affichage.h
+
+1526035838 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.3\annexe.c
+	"biblio.h"
+
+1526000833 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.3\boucle_jeu.c
+	"biblio.h"
+
+1526068248 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.3\chargement_de_donnees.c
+	"biblio.h"
+
+1526070843 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.3\jeu_modelisation_3d.c
+	"biblio.h"
+
+1525366988 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.3\liberation_espace_memoire.c
+	"biblio.h"
+
+1526079277 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.3\main.c
+	"biblio.h"
+
+1525983492 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.3\menu.c
+
+1526078909 source:c:\users\willy\onedrive\documents\ece inge 1\1. informatique\1. projet d'info\jeu\projet allegro v4.3\jeu.c
+	"biblio.h"
+
+1525999086 source:c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.4\affichage.c
+	"biblio.h"
+
+1526068104 c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.4\biblio.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<logg.h>
+	"chargement_de_donnees.h"
+	"annexe.h"
+	"jeu.h"
+	"jeu_modelisation_3D.h"
+	"boucle_jeu.h"
+	"liberation_espace_memoire.h"
+	"affichage.h"
+
+1526070416 c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.4\chargement_de_donnees.h
+
+1525615686 c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.4\annexe.h
+
+1525612896 c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.4\jeu.h
+
+1525533450 c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.4\jeu_modelisation_3d.h
+
+1525982792 c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.4\boucle_jeu.h
+
+1525366700 c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.4\liberation_espace_memoire.h
+
+1525993678 c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.4\affichage.h
+
+1526035840 source:c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.4\annexe.c
+	"biblio.h"
+
+1526068250 source:c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.4\chargement_de_donnees.c
+	"biblio.h"
+
+1526081134 source:c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.4\jeu.c
+	"biblio.h"
+
+1526070844 source:c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.4\jeu_modelisation_3d.c
+	"biblio.h"
+
+1525366988 source:c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.4\liberation_espace_memoire.c
+	"biblio.h"
+
+1526079398 source:c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.4\main.c
+	"biblio.h"
+
+1525983494 source:c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.4\menu.c
+
+1526080821 source:c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.4\boucle_jeu.c
+	"biblio.h"
+
+1525999086 source:c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.5\affichage.c
+	"biblio.h"
+
+1526068104 c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.5\biblio.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<logg.h>
+	"chargement_de_donnees.h"
+	"annexe.h"
+	"jeu.h"
+	"jeu_modelisation_3D.h"
+	"boucle_jeu.h"
+	"liberation_espace_memoire.h"
+	"affichage.h"
+
+1526070416 c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.5\chargement_de_donnees.h
+
+1525615686 c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.5\annexe.h
+
+1525612896 c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.5\jeu.h
+
+1525533450 c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.5\jeu_modelisation_3d.h
+
+1525982792 c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.5\boucle_jeu.h
+
+1525366700 c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.5\liberation_espace_memoire.h
+
+1525993678 c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.5\affichage.h
+
+1526035840 source:c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.5\annexe.c
+	"biblio.h"
+
+1526135465 source:c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.5\boucle_jeu.c
+	"biblio.h"
+
+1526068250 source:c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.5\chargement_de_donnees.c
+	"biblio.h"
+
+1526081134 source:c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.5\jeu.c
+	"biblio.h"
+
+1526070844 source:c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.5\jeu_modelisation_3d.c
+	"biblio.h"
+
+1525366988 source:c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.5\liberation_espace_memoire.c
+	"biblio.h"
+
+1526135252 source:c:\users\ethane\desktop\ecole\informatique\projet\allegro\projet allegro v4.5\main.c
+	"biblio.h"
+
+1525995486 source:c:\users\ethane\desktop\ecole\informatique\ing 1\projet\allegro\projet allegro v4.5\affichage.c
+	"biblio.h"
+
+1526064504 c:\users\ethane\desktop\ecole\informatique\ing 1\projet\allegro\projet allegro v4.5\biblio.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<logg.h>
+	"chargement_de_donnees.h"
+	"annexe.h"
+	"jeu.h"
+	"jeu_modelisation_3D.h"
+	"boucle_jeu.h"
+	"liberation_espace_memoire.h"
+	"affichage.h"
+
+1526066816 c:\users\ethane\desktop\ecole\informatique\ing 1\projet\allegro\projet allegro v4.5\chargement_de_donnees.h
+
+1525612086 c:\users\ethane\desktop\ecole\informatique\ing 1\projet\allegro\projet allegro v4.5\annexe.h
+
+1525609296 c:\users\ethane\desktop\ecole\informatique\ing 1\projet\allegro\projet allegro v4.5\jeu.h
+
+1525529850 c:\users\ethane\desktop\ecole\informatique\ing 1\projet\allegro\projet allegro v4.5\jeu_modelisation_3d.h
+
+1525979192 c:\users\ethane\desktop\ecole\informatique\ing 1\projet\allegro\projet allegro v4.5\boucle_jeu.h
+
+1525363100 c:\users\ethane\desktop\ecole\informatique\ing 1\projet\allegro\projet allegro v4.5\liberation_espace_memoire.h
+
+1525990078 c:\users\ethane\desktop\ecole\informatique\ing 1\projet\allegro\projet allegro v4.5\affichage.h
+
+1526032240 source:c:\users\ethane\desktop\ecole\informatique\ing 1\projet\allegro\projet allegro v4.5\annexe.c
+	"biblio.h"
+
+1526131865 source:c:\users\ethane\desktop\ecole\informatique\ing 1\projet\allegro\projet allegro v4.5\boucle_jeu.c
+	"biblio.h"
+
+1526064650 source:c:\users\ethane\desktop\ecole\informatique\ing 1\projet\allegro\projet allegro v4.5\chargement_de_donnees.c
+	"biblio.h"
+
+1526077534 source:c:\users\ethane\desktop\ecole\informatique\ing 1\projet\allegro\projet allegro v4.5\jeu.c
+	"biblio.h"
+
+1526067244 source:c:\users\ethane\desktop\ecole\informatique\ing 1\projet\allegro\projet allegro v4.5\jeu_modelisation_3d.c
+	"biblio.h"
+
+1525363388 source:c:\users\ethane\desktop\ecole\informatique\ing 1\projet\allegro\projet allegro v4.5\liberation_espace_memoire.c
+	"biblio.h"
+
+1526131652 source:c:\users\ethane\desktop\ecole\informatique\ing 1\projet\allegro\projet allegro v4.5\main.c
+	"biblio.h"
+

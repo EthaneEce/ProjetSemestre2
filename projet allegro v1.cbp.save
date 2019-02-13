@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="projet allegro v1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/projet allegro v1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="alleg44.dll" />
+					<Add library="logg" />
+					<Add library="ogg.dll" />
+					<Add library="vorbis.dll" />
+					<Add library="vorbisfile.dll" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/projet allegro v1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Linker>
+			<Add library="logg" />
+			<Add library="ogg.dll" />
+			<Add library="vorbis.dll" />
+			<Add library="vorbisfile.dll" />
+			<Add library="alleg44.dll" />
+		</Linker>
+		<Unit filename="affichage.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="affichage.h" />
+		<Unit filename="annexe.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="annexe.h" />
+		<Unit filename="biblio.h" />
+		<Unit filename="boucle_jeu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="boucle_jeu.h" />
+		<Unit filename="chargement_de_donnees.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="chargement_de_donnees.h" />
+		<Unit filename="jeu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="jeu.h" />
+		<Unit filename="jeu_modelisation_3D.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="jeu_modelisation_3D.h" />
+		<Unit filename="liberation_espace_memoire.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="liberation_espace_memoire.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

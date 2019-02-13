@@ -1,0 +1,19 @@
+#ifndef LIBERATION_ESPACE_MEMOIRE_H_INCLUDED
+#define LIBERATION_ESPACE_MEMOIRE_H_INCLUDED
+
+
+
+/*******************************************
+*************   prototypes *****************
+********************************************/
+
+///sous prog permettant la liberation d'espace mémoire à la fin d'un niveau
+void liberation_memoire(t_niveau* info,unsigned char*** tab,BITMAP* mape,BITMAP**);
+
+///libere un tableau a 3 dimensions
+void free_tab_map(unsigned char*** tab, t_niveau* info);
+
+///libere un tableau d'image à n nombre d'images
+void free_imageS(BITMAP** tableau,int nombre,char* chaine);
+
+#endif // LIBERATION_ESPACE_MEMOIRE_H_INCLUDED

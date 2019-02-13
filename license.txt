@@ -1,0 +1,38 @@
+
+
+SOURCES:
+
+drawbouton 
+-> permet l'affichage d'un bouton avec effet d'enfoncement du clique
+-> il retourne 1 si on clique et 0 si on ne clique pas
+
+https://codes-sources.commentcamarche.net/source/31767-dessin-d-un-bouton-a-enfoncer-en-allegro-c
+
+lancerToutAllegro
+TD de Mme PALASI
+-> initialise la fenetre graphique
+
+/**************************************
+  source : M. FERCOC COURS 0
+**************************************/
+///permet de charger une image avec verification d'echec à partir d'une chaine passée en paramètre
+BITMAP *chargerImage(char *nomFichierImage)
+
+
+//bouton de déplacement
+https://www.canstockphoto.fr/
+
+//personnage isometrique
+http://jamespearsallunit78digitalgraphics.blogspot.fr/2013/12/computer-games-graphic-types.html
+
+//coeur
+https://www.lerefletdulac.com/pourquoi-tout-le-monde-publie-un-coeur-dans-son-statut-facebook/
+
+//win
+https://youngmoneygaming.wordpress.com/2014/12/03/i-made-a-title-and-winning-screen-for-my-space-invader-game/
+
+//game over
+https://youngmoneygaming.wordpress.com/2014/12/03/i-made-a-title-and-winning-screen-for-my-space-invader-game/
+
+//lost
+http://technowhizzkidgames.blogspot.fr/2012/02/sprites.html
